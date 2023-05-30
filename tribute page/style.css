@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-decoration-color: azure;
+    background-color: black;
+  }
+  #container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+
+  }
+  img {
+    display: block;
+    max-width: 100%s
+    heigth auto;
+    margin: 20px auto;
+  }
+  p {
+    text-align: justify;
+    line-height: 1.5;
+  }
+  .quote {
+    font-style: italic;
+    text-align: left;
+
+  }
+  .source {
+    text-align: right;
+    margin-top: 40px;
+  }
